@@ -1,0 +1,303 @@
+{
+  "profile": {
+    "name": "P. G. Udara Dilshan",
+    "shortName": "Udara",
+    "role": "Web Developer",
+    "email": "udara.profile@gmail.com",
+    "phone": "+94 70 253 6103",
+    "location": "Sri Lanka",
+    "github": "https://github.com/p-g-udara-dilshan",
+    "linkedin": "https://www.linkedin.com/in/p-g-udara-dilshan"
+  },
+  "heroRoles": [
+    "Web Developer",
+    "WordPress Developer",
+    "Responsive Web Designer",
+    "Freelance Web Developer"
+  ],
+  "heroIntro": "Web Developer experienced in WordPress, WooCommerce, responsive websites and real client projects. Currently strengthening JavaScript fundamentals and learning modern frontend technologies through practical and AI-assisted development.",
+  "aboutImage": "/about.png",
+  "aboutParagraphs": [
+    "I am a Web Developer with an academic background in Software Technology at Uva Wellassa University of Sri Lanka. I have completed the academic requirements of my BICT degree programme and am awaiting official graduation.",
+    "My practical experience focuses on WordPress, WooCommerce, responsive website design, client-focused customization, hosting, cPanel and deployment. During my March–August 2025 internship at GW Technologies, I contributed to real client websites and collaborated with a development team.",
+    "I also work on freelance websites and digital solutions for businesses, including client-focused projects such as Vibe Decor Event Planning. I enjoy using HTML, CSS and JavaScript, and I have explored Figma and modern frontend tools.",
+    "I am currently strengthening my programming fundamentals and learning React, Next.js and TypeScript through hands-on and AI-assisted projects. I value honest technical communication, continuous learning and building reliable web experiences."
+  ],
+  "aboutFeatures": [
+    {
+      "title": "WordPress & WooCommerce",
+      "description": "Building and maintaining responsive business websites, landing pages, and practical web solutions.",
+      "icon": "Globe"
+    },
+    {
+      "title": "Responsive Web Design",
+      "description": "Creating clean, responsive layouts that work across desktop, tablet, and mobile devices.",
+      "icon": "MonitorSmartphone"
+    },
+    {
+      "title": "UI/UX & Visual Design",
+      "description": "Creating interface concepts with Figma and focusing on clear layouts, usability, and visual presentation.",
+      "icon": "Palette"
+    },
+    {
+      "title": "Learning & Development",
+      "description": "Exploring practical web tools, AI-assisted development, and digital solutions for everyday needs.",
+      "icon": "GraduationCap"
+    },
+    {
+      "title": "Business Digital Solutions",
+      "description": "Supporting small businesses with web presence, social media pages, and digital content.",
+      "icon": "Megaphone"
+    },
+    {
+      "title": "Problem Solving",
+      "description": "Troubleshooting websites, improving functionality, and finding practical solutions to technical challenges.",
+      "icon": "Code2"
+    }
+  ],
+  "education": {
+    "degree": "Bachelor of Information and Communication Technology (BICT)",
+    "specialization": "Software Technology",
+    "university": "Uva Wellassa University of Sri Lanka",
+    "period": "Sep 2022 – Sep 2026",
+    "location": "Badulla, Sri Lanka",
+    "status": "Academic requirements completed",
+    "result": "Awaiting official graduation (fourth-year results pending)",
+    "description": "Completed academic requirements in Software Technology, including programming, software engineering, web technologies, databases, cloud computing and software quality assurance. Official graduation is pending.",
+    "coreSubjects": "Programming Techniques, Object-Oriented Programming, Data Structures & Algorithms, Database Management Systems, Software Engineering, Web Technologies, Human-Computer Interaction.",
+    "advancedSubjects": "Software Quality Assurance, Cloud Computing, Web Service Technologies, Software Requirements Engineering, Object-Oriented Design Patterns, Computer Systems Security, Parallel & Distributed Computing, IoT and Embedded Systems.",
+    "practicalWork": "Academic capstone project, independent study projects and industrial training; applied coursework through system design, implementation and testing activities.",
+    "logo": "/uwu.png"
+  },
+  "projectCategories": [
+    "Frontend Development",
+    "WordPress Development",
+    "Full-Stack Development",
+    "Freelance Client Project",
+    "UI/UX Design",
+    "AI & Machine Learning",
+    "Other"
+  ],
+  "contactContent": {
+    "heading": "Let's create something great together.",
+    "description": "Looking for a website developer for your next project, a frontend development opportunity, or a collaboration? I'd love to hear from you.",
+    "cardHeading": "Have a project in mind?",
+    "cardDescription": "I'm interested in creating responsive websites, building responsive interfaces, WordPress websites, and turning ideas into practical digital experiences.",
+    "bottomNote": "Have a question or an idea? Let's start a conversation."
+  },
+  "contactExtras": [],
+  "skillCategories": [
+    {
+      "title": "WordPress Development",
+      "description": "Developing and customizing WordPress and WooCommerce websites for practical business needs.",
+      "skills": [
+        {
+          "name": "WordPress",
+          "icon": "wordpress",
+          "color": "21759B"
+        },
+        {
+          "name": "Elementor",
+          "icon": "elementor",
+          "color": "92003B"
+        },
+        {
+          "name": "WooCommerce",
+          "icon": "woocommerce",
+          "color": "96588A"
+        },
+        {
+          "name": "Website Maintenance",
+          "icon": "wordpress",
+          "color": "21759B"
+        },
+        {
+          "name": "cPanel",
+          "icon": "cpanel",
+          "color": "FF6C2C"
+        },
+        {
+          "name": "MySQL",
+          "icon": "mysql",
+          "color": "4479A1"
+        },
+        {
+          "name": "SEO Basics",
+          "icon": "google",
+          "color": "4285F4"
+        },
+        {
+          "name": "Website Deployment",
+          "icon": "vercel",
+          "color": "FFFFFF"
+        }
+      ]
+    },
+    {
+      "title": "Web Development",
+      "description": "Working with core web technologies while learning modern React-based tooling through guided projects.",
+      "skills": [
+        {
+          "name": "HTML5",
+          "icon": "html5",
+          "color": "E34F26"
+        },
+        {
+          "name": "CSS3",
+          "icon": "css3",
+          "color": "1572B6"
+        },
+        {
+          "name": "JavaScript",
+          "icon": "javascript",
+          "color": "F7DF1E"
+        },
+        {
+          "name": "React.js (learning)",
+          "icon": "react",
+          "color": "61DAFB"
+        },
+        {
+          "name": "TypeScript (learning)",
+          "icon": "typescript",
+          "color": "3178C6"
+        },
+        {
+          "name": "Tailwind CSS",
+          "icon": "tailwindcss",
+          "color": "06B6D4"
+        },
+        {
+          "name": "Vite",
+          "icon": "vite",
+          "color": "646CFF"
+        },
+        {
+          "name": "PHP",
+          "icon": "php",
+          "color": "777BB4"
+        }
+      ]
+    },
+    {
+      "title": "UI/UX & Web Design",
+      "description": "Designing responsive interfaces and visual layouts with a focus on usability and presentation.",
+      "skills": [
+        {
+          "name": "Figma",
+          "icon": "figma",
+          "color": "F24E1E"
+        },
+        {
+          "name": "Responsive Design",
+          "icon": "css3",
+          "color": "1572B6"
+        },
+        {
+          "name": "UI Design",
+          "icon": "figma",
+          "color": "A259FF"
+        },
+        {
+          "name": "Website Layouts",
+          "icon": "html5",
+          "color": "E34F26"
+        },
+        {
+          "name": "Landing Pages",
+          "icon": "html5",
+          "color": "E34F26"
+        },
+        {
+          "name": "Canva",
+          "icon": "canva",
+          "color": "00C4CC"
+        }
+      ]
+    },
+    {
+      "title": "Tools & AI",
+      "description": "Using practical development and AI-assisted tools while continuing to learn modern technologies.",
+      "skills": [
+        {
+          "name": "Git",
+          "icon": "git",
+          "color": "F05032"
+        },
+        {
+          "name": "GitHub",
+          "icon": "github",
+          "color": "FFFFFF"
+        },
+        {
+          "name": "VS Code",
+          "icon": "visualstudiocode",
+          "color": "007ACC"
+        },
+        {
+          "name": "Vercel",
+          "icon": "vercel",
+          "color": "FFFFFF"
+        },
+        {
+          "name": "ChatGPT",
+          "icon": "openai",
+          "color": "FFFFFF"
+        },
+        {
+          "name": "Gemini",
+          "icon": "googlegemini",
+          "color": "8E75FF"
+        },
+        {
+          "name": "CapCut",
+          "icon": "capcut",
+          "color": "FFFFFF"
+        },
+        {
+          "name": "AI Image & Video",
+          "icon": "openai",
+          "color": "FFFFFF"
+        }
+      ]
+    }
+  ],
+  "experiences": [
+    {
+      "company": "Freelance / Self-Employed",
+      "role": "Web Developer & Digital Solutions",
+      "employmentType": "Freelance",
+      "period": "Jan 2023 – Present",
+      "duration": "Ongoing",
+      "location": "Sri Lanka",
+      "workMode": "Remote / Flexible",
+      "logo": "/freelance.png",
+      "description": "",
+      "responsibilities": [
+        "Build and customize WordPress and responsive business websites.",
+        "Discuss requirements with clients and adapt layouts to business needs.",
+        "Work on websites, digital product catalogues, QR menu concepts and business profiles.",
+        "Assist with social media page setup, content creation, and Meta advertising services where needed.",
+        "Explore AI-assisted workflows for practical digital solutions."
+      ]
+    },
+    {
+      "company": "GW Technologies",
+      "role": "Full-Stack Developer (WordPress) Intern",
+      "employmentType": "Internship",
+      "period": "Mar 2025 – Aug 2025",
+      "duration": "6 months",
+      "location": "Maharagama, Sri Lanka",
+      "workMode": "Remote",
+      "logo": "/gw.png",
+      "description": "",
+      "responsibilities": [
+        "Created and customized WordPress pages and responsive interfaces.",
+        "Worked with HTML, CSS, JavaScript and PHP in site customization.",
+        "Supported hosting, cPanel, domains, deployments and maintenance.",
+        "Participated in client discussions and collaborated with team members.",
+        "Helped test and improve WordPress business websites."
+      ]
+    }
+  ]
+}
