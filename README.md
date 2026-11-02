@@ -7,7 +7,7 @@ A **React + TypeScript + Vite + Tailwind CSS** personal portfolio, built from th
 ## Pages
 
 - `/` — Home with Hero, About, Skills, Experience, Education, Featured Projects, and Contact.
-- `/projects` — All Projects and category filters.
+- `/projects/` — All Projects and category filters.
 - Any unsupported route — 404 page on Cloudflare Pages.
 
 ## Run on your computer
@@ -20,7 +20,7 @@ npm run check:static
 npm run dev
 ```
 
-Open `http://localhost:5173/` or `http://localhost:5173/projects`.
+Open `http://localhost:5173/` or `http://localhost:5173/projects/`.
 
 ## Create production build
 
@@ -58,7 +58,7 @@ No Cloudflare Functions or D1/R2 bindings are required. Previous admin-related V
 
 Cloudflare Pages deploys automatically when changes are pushed to the connected GitHub repository. The site is static and does not sleep when idle like a free Node.js web service. Provider usage limits and terms still apply.
 
-The included `public/_redirects` maps `/projects` to the React app while `public/404.html` provides a proper not-found page for unused routes.
+The build generates a real `dist/projects/index.html` file, so no Cloudflare rewrite is needed. `public/404.html` remains the not-found page for other routes.
 
 ## Security and usage
 
@@ -71,3 +71,22 @@ The included `public/_redirects` maps `/projects` to the React app while `public
 ## Developer
 
 **Udara Dilshan** · [GitHub](https://github.com/p-g-udara-dilshan) · [LinkedIn](https://www.linkedin.com/in/p-g-udara-dilshan) · [Email](mailto:udara.profile@gmail.com)
+
+
+## Cloudflare All Projects Page (Fixed)
+
+This is a **two-entry static Vite build** with both the homepage and a dedicated projects HTML page:
+
+- `/` — portfolio homepage
+- `/projects/` — all projects and category filters
+
+`vite.config.ts` builds `dist/index.html` and `dist/projects/index.html`. You do not need a Cloudflare SPA fallback rewrite, and should not add `/projects /index.html 200` to `_redirects`.
+
+Check the output after building:
+
+```bash
+npm run build
+npm run check:build
+```
+
+See `FIX_PROJECTS_PAGE_SINHALA.md` for GitHub/Cloudflare publishing steps.

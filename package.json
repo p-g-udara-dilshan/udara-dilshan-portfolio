@@ -7,7 +7,8 @@
     "dev": "vite",
     "build": "tsc -b && vite build",
     "preview": "vite preview",
-    "check:static": "node tools/check-static.mjs"
+    "check:static": "node tools/check-static.mjs",
+    "check:build": "node tools/check-build.mjs"
   },
   "dependencies": {
     "lucide-react": "^0.468.0",

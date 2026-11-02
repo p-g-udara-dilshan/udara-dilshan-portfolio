@@ -36,8 +36,8 @@ function MainPortfolio() {
   )
 }
 
-// Static portfolio: no private route, server, authentication, or CMS.
-// The /projects route is handled by the same built React application.
+// Static portfolio. Both / and /projects/ have real HTML entrypoints in the build.
+// This check determines which React screen mounts for the current URL.
 export default function App() {
   const path = window.location.pathname.replace(/\/+$/, '') || '/'
   if (path === '/projects') {

@@ -23,3 +23,5 @@ jobs:
         run: npm run check:static
       - name: Build frontend
         run: npm run build
+      - name: Verify all-page build outputs
+        run: npm run check:build

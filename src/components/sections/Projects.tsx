@@ -43,7 +43,7 @@ export function Projects() {
 
           {/* View all projects */}
           <a
-            href="/projects"
+            href="/projects/"
             className="group inline-flex w-fit shrink-0 items-center gap-2 rounded-xl border border-violet-400/30 bg-violet-500/[0.10] px-4 py-3 text-sm font-semibold text-violet-200 shadow-[0_0_25px_rgba(139,92,246,0.08)] transition-all duration-300 hover:-translate-y-0.5 hover:border-violet-300/50 hover:bg-violet-500/[0.18] hover:text-white hover:shadow-[0_0_30px_rgba(139,92,246,0.16)] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-violet-400"
           >
             View all projects
@@ -91,7 +91,7 @@ export function Projects() {
 
           {/* Explore full portfolio */}
           <a
-            href="/projects"
+            href="/projects/"
             className="group inline-flex w-fit items-center gap-2 rounded-xl border border-violet-400/25 bg-violet-500/[0.08] px-4 py-2.5 text-sm font-semibold text-violet-200 transition-all duration-300 hover:-translate-y-0.5 hover:border-violet-300/45 hover:bg-violet-500/[0.16] hover:text-white"
           >
             Explore the full portfolio
