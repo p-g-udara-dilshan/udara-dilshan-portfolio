@@ -1,0 +1,3 @@
+# Static React route for the complete project collection.
+/projects /index.html 200
+/projects/ /index.html 200
